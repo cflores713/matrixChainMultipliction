@@ -29,4 +29,4 @@ Once you are done with filling the array you can refer to your array to see whic
 
 ![Image of dim](https://github.com/cflores713/matrixChainMultipliction/blob/master/ss6.png)
 
-We should combine the matrices by : [ M1 * (M2 * M3) ] * [M4 * M5] to perform the least amount of scalar multiplications. 
+We should combine the matrices by : [ (M1 * M2) * M3 ] * [M4 * M5] to perform the least amount of scalar multiplications. 
